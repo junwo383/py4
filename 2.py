@@ -1,5 +1,5 @@
 #재미삼아 만들어본 if문  elif문 으로 자율주행자동차 시스템 가동안내  # 복슴할겸 만들어봤어요
-
+# name : jun
 import datetime #import 문 사용
 
 now = datetime.datetime.now() #변수
